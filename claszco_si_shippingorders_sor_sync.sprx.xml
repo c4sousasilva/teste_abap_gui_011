@@ -19,7 +19,7 @@
      <PREFIX>Z</PREFIX>
      <CATEGORY>ifmmessif</CATEGORY>
      <DIRECTION>O</DIRECTION>
-     <SYNCHRON>X</SYNCHRON>
+     <SYNCHRON>D</SYNCHRON>
      <X-ML_NSPCE>http://easywms.com/Rest/Proxy/ShippingordersSOR</X-ML_NSPCE>
      <X-ML_NAME>SI_ShippingordersSOR_Sync_Out</X-ML_NAME>
      <FURTHER_DATA>﻿&lt;asx:abap xmlns:asx=&quot;http://www.sap.com/abapxml&quot; version=&quot;1.0&quot;&gt;&lt;asx:values&gt;&lt;DATA&gt;&lt;SOAP_APPL&gt;urn:sap-com:soap:application:esr:client:710&lt;/SOAP_APPL&gt;&lt;/DATA&gt;&lt;/asx:values&gt;&lt;/asx:abap&gt;</FURTHER_DATA>
